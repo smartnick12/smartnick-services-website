@@ -1,5 +1,3 @@
-import build from "next/dist/build";
-
 export default function SmartnickServicesWebsite() {
   return (
     <div className="min-h-screen bg-white text-gray-800 font-sans">
@@ -213,5 +211,3 @@ export default function SmartnickServicesWebsite() {
     </div>
   );
 }
-
-
